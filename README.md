@@ -1,2 +1,2 @@
 # Sales_Forecasting
-Predict future sales of testing data using a simple moving average model
+Predict future sales using generated testing data with a simple moving average model
